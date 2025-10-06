@@ -11,6 +11,7 @@ namespace TestGithubProject
         public Test1_child()
         {
             Console.WriteLine("1st commit from test1-child");
+            Console.WriteLine("2nd commit from test1-child");
         }
     }
 }
