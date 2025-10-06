@@ -1,0 +1,36 @@
+[33mcommit 90c79d912c3c95aed1a66740dc8b4b3e91de2273[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest1[m[33m, [m[1;31morigin/test1[m[33m)[m
+Merge: f2f6e4f f9ca71d
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 11:39:07 2025 +0400
+
+    Merge branch 'test1-child' into test1
+
+[33mcommit f2f6e4f719e0a476a73c4b69aee9168980f8992a[m
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 11:35:51 2025 +0400
+
+    2nd commit from test1
+
+[33mcommit 721ab907b8d3fb5aedf0b07300fe18b98206a2bb[m
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 11:35:30 2025 +0400
+
+    3rd commit from test1
+
+[33mcommit c362db2ba5fb2ab429c8f91dcf13d301d0b7e8bc[m
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 11:35:13 2025 +0400
+
+    2nd commit from test1
+
+[33mcommit 94fbb3b1352b1a583c37342a5a5e07a83f35aae6[m
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 11:13:10 2025 +0400
+
+    1st commit from test1
+
+[33mcommit e6671c69e8ef2bfd1facbdcb8a9aa455511a9c7e[m[33m ([m[1;31morigin/test2[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mtest2[m[33m, [m[1;32mmain[m[33m)[m
+Author: Parviz <parvizagazade96@gmail.com>
+Date:   Mon Oct 6 10:37:43 2025 +0400
+
+    1st commit
